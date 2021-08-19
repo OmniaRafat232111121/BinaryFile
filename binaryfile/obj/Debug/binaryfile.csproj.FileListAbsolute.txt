@@ -1,0 +1,24 @@
+E:\visual\binaryfile\binaryfile\bin\Debug\binaryfile.exe.config
+E:\visual\binaryfile\binaryfile\bin\Debug\binaryfile.exe
+E:\visual\binaryfile\binaryfile\bin\Debug\binaryfile.pdb
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.csproj.AssemblyReference.cache
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.Form2.resources
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.Properties.Resources.resources
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.csproj.GenerateResource.cache
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.csproj.CoreCompileInputs.cache
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.exe
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.pdb
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.Form1.resources
+E:\visual\binaryfile\binaryfile\obj\Debug\binaryfile.Form3.resources
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\bin\Debug\binaryfile.exe.config
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\bin\Debug\binaryfile.exe
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\bin\Debug\binaryfile.pdb
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.csprojAssemblyReference.cache
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.Form1.resources
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.Form2.resources
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.Form3.resources
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.Properties.Resources.resources
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.csproj.GenerateResource.cache
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.csproj.CoreCompileInputs.cache
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.exe
+C:\Users\Omnia Rafat\Desktop\binaryfile\binaryfile\obj\Debug\binaryfile.pdb
